@@ -1,0 +1,4 @@
+/home/memoli/RiderProjects/Kodlamaio/Kodlamaio/obj/Debug/net8.0/Kodlamaio.GeneratedMSBuildEditorConfig.editorconfig
+/home/memoli/RiderProjects/Kodlamaio/Kodlamaio/obj/Debug/net8.0/Kodlamaio.AssemblyInfoInputs.cache
+/home/memoli/RiderProjects/Kodlamaio/Kodlamaio/obj/Debug/net8.0/Kodlamaio.AssemblyInfo.cs
+/home/memoli/RiderProjects/Kodlamaio/Kodlamaio/obj/Debug/net8.0/Kodlamaio.csproj.CoreCompileInputs.cache
